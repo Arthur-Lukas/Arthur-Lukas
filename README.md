@@ -4,7 +4,7 @@ My name ir Arthur Lucas. I'm 25 years old, and i'm from Belo Horizonte-MG. I am 
 
 Passionate about technology. I am constantly seeking to expand my knowledge and skills. My journey in programming goes beyound the classroom; I'm a tech enthusiast and actively contribute on Github, where i share projects and collaborations that reflect my dedication and curiosity. My focus is on theory and practice to create efficient and impactful solutions.
 
-##🛠️ Technologies and tools
+## 🛠️ Technologies and tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35" alt="Java"/>
